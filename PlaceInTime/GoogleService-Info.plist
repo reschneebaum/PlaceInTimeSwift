@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>480665357096-5t5q90hvfbccbv23jhhakfhuvpf7lqin.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.480665357096-5t5q90hvfbccbv23jhhakfhuvpf7lqin</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDSjqKu4WZqL2TAtTGRnvEYWpg9blVgCSc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480665357096</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>reschneebaum.placeInTime</string>
+	<key>PROJECT_ID</key>
+	<string>placeintime-ecc94</string>
+	<key>STORAGE_BUCKET</key>
+	<string>placeintime-ecc94.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480665357096:ios:49a965dd064a9239</string>
+	<key>DATABASE_URL</key>
+	<string>https://placeintime-ecc94.firebaseio.com</string>
+</dict>
+</plist>

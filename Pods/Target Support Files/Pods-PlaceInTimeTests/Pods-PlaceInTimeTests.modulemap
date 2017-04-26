@@ -1,0 +1,6 @@
+framework module Pods_PlaceInTimeTests {
+  umbrella header "Pods-PlaceInTimeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
